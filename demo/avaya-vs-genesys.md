@@ -5,7 +5,6 @@ date: 2008-01-31T09:20:00+00:00
 author: lakshmikanth
 excerpt: |
 layout: post
-guid: http://lakshmikanth.azurewebsites.net/?p=1041
 permalink: /2008/01/31/avaya-vs-genesys/
 blogger_blog:
   - ccxps.blogspot.com
